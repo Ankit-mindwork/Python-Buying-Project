@@ -1,0 +1,196 @@
+2021-02-11 19:04:37,988 :INFO :test_MobilePurchase :Entering Samsung URL
+2021-02-11 19:04:42,915 :INFO :test_MobilePurchase :Click on mobile option in navigation bar
+2021-02-11 19:04:43,549 :INFO :test_MobilePurchase :Move mouse towards smartphones option
+2021-02-11 19:04:44,819 :INFO :test_MobilePurchase :Then click on SeeAll option
+2021-02-11 19:04:45,295 :INFO :test_MobilePurchase :List of all Mobile Brand
+2021-02-11 19:04:48,333 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-11 19:04:48,781 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-11 19:04:49,362 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-11 19:04:49,465 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-11 19:04:49,548 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-11 19:04:49,610 :INFO :test_MobilePurchase :Click on the required mobile product
+2021-02-11 19:04:54,285 :INFO :test_MobilePurchase :Click on Add to Cart option
+2021-02-11 19:04:54,977 :INFO :test_MobilePurchase :Click on the Continue Option
+2021-02-11 19:05:00,275 :INFO :test_MobilePurchase :Click on Remove Button
+2021-02-11 19:05:00,586 :INFO :test_MobilePurchase :Finally SamsungURL Browser is closed
+2021-02-11 19:05:01,211 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-11 19:09:07,664 :INFO :test_NewConn :Entering Airtel URL
+2021-02-11 19:09:14,413 :INFO :test_NewConn :Click on broadband option
+2021-02-11 19:09:14,515 :INFO :test_NewConn :click on Buy New Connection option
+2021-02-11 19:09:18,388 :INFO :test_NewConn :Click on Change City option
+2021-02-11 19:09:18,700 :INFO :test_NewConn :Enter City Name Jam
+2021-02-11 19:09:18,890 :INFO :test_NewConn :Finally City name is selected
+2021-02-11 19:09:19,259 :INFO :test_NewConn :List of all Monthly Rentals
+2021-02-11 19:09:19,488 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-11 19:09:19,547 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-11 19:09:19,603 :INFO :test_NewConn :Selecting the required Rental Plan
+2021-02-11 19:09:19,700 :INFO :test_NewConn :Enter the Customer Name Ankit Kumar Mandal
+2021-02-11 19:09:20,350 :INFO :test_NewConn :Enter the Customer Mobile Number 9503913205
+2021-02-11 19:09:20,601 :INFO :test_NewConn :Click on Checkmark
+2021-02-11 19:09:20,771 :INFO :test_NewConn :Enter the Customer Address Lal Building Chowk, Bara Gamharia, Saraikella, Kharsawan, Jamshedpur, Jharkhand, 832108
+2021-02-11 19:09:21,771 :INFO :test_NewConn :Click on Submit Option
+2021-02-11 19:09:24,862 :INFO :test_NewConn :Finally AirtelURL Browser is closed
+2021-02-11 19:09:24,986 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-11 19:10:51,492 :INFO :test_MobilePurchase :Entering Samsung URL
+2021-02-11 19:10:54,602 :INFO :test_MobilePurchase :Click on mobile option in navigation bar
+2021-02-11 19:10:55,764 :INFO :test_MobilePurchase :Move mouse towards smartphones option
+2021-02-11 19:10:56,528 :INFO :test_MobilePurchase :Then click on SeeAll option
+2021-02-11 19:10:58,361 :INFO :test_MobilePurchase :List of all Mobile Brand
+2021-02-11 19:10:59,873 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-11 19:11:00,113 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-11 19:11:00,275 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-11 19:11:00,326 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-11 19:11:00,387 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-11 19:11:00,454 :INFO :test_MobilePurchase :Click on the required mobile product
+2021-02-11 19:11:04,429 :INFO :test_MobilePurchase :Click on Add to Cart option
+2021-02-11 19:11:05,712 :INFO :test_MobilePurchase :Click on the Continue Option
+2021-02-11 19:11:09,889 :INFO :test_MobilePurchase :Click on Remove Button
+2021-02-11 19:11:10,999 :INFO :test_MobilePurchase :Finally SamsungURL Browser is closed
+2021-02-11 19:11:11,162 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:30:28,288 :INFO :test_NewConn :Entering Airtel URL
+2021-02-17 00:30:42,539 :INFO :test_NewConn :Click on broadband option
+2021-02-17 00:30:42,655 :INFO :test_NewConn :click on Buy New Connection option
+2021-02-17 00:30:53,743 :INFO :test_NewConn :Click on Change City option
+2021-02-17 00:30:53,993 :INFO :test_NewConn :Enter City Name Jam
+2021-02-17 00:30:54,610 :INFO :test_NewConn :Finally City name is selected
+2021-02-17 00:30:54,958 :INFO :test_NewConn :List of all Monthly Rentals
+2021-02-17 00:30:55,203 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:30:55,424 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:30:55,484 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:30:55,538 :INFO :test_NewConn :Selecting the required Rental Plan
+2021-02-17 00:30:55,637 :INFO :test_NewConn :Enter the Customer Name Ankit Kumar Mandal
+2021-02-17 00:30:56,471 :INFO :test_NewConn :Enter the Customer Mobile Number 9503913205
+2021-02-17 00:30:56,787 :INFO :test_NewConn :Click on Checkmark
+2021-02-17 00:30:56,939 :INFO :test_NewConn :Enter the Customer Address Lal Building Chowk, Bara Gamharia, Saraikella, Kharsawan, Jamshedpur, Jharkhand, 832108
+2021-02-17 00:30:57,957 :INFO :test_NewConn :Click on Submit Option
+2021-02-17 00:30:58,123 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:31:06,454 :INFO :test_MobilePurchase :Entering Samsung URL
+2021-02-17 00:31:18,657 :INFO :test_MobilePurchase :Click on mobile option in navigation bar
+2021-02-17 00:31:19,399 :INFO :test_MobilePurchase :Move mouse towards smartphones option
+2021-02-17 00:31:21,397 :INFO :test_MobilePurchase :Then click on SeeAll option
+2021-02-17 00:31:22,273 :INFO :test_MobilePurchase :List of all Mobile Brand
+2021-02-17 00:31:26,878 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:31:27,345 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:31:27,432 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:31:27,526 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:31:27,815 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:31:27,875 :INFO :test_MobilePurchase :Click on the required mobile product
+2021-02-17 00:31:35,345 :INFO :test_MobilePurchase :Click on Add to Cart option
+2021-02-17 00:31:35,781 :INFO :test_MobilePurchase :Click on the Continue Option
+2021-02-17 00:31:38,492 :INFO :test_MobilePurchase :Click on Remove Button
+2021-02-17 00:31:42,019 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:33:51,744 :INFO :test_NewConn :Entering Airtel URL
+2021-02-17 00:34:00,728 :INFO :test_NewConn :Click on broadband option
+2021-02-17 00:34:00,986 :INFO :test_NewConn :click on Buy New Connection option
+2021-02-17 00:34:05,943 :INFO :test_NewConn :Click on Change City option
+2021-02-17 00:34:06,137 :INFO :test_NewConn :Enter City Name Jam
+2021-02-17 00:34:06,547 :INFO :test_NewConn :Finally City name is selected
+2021-02-17 00:34:06,923 :INFO :test_NewConn :List of all Monthly Rentals
+2021-02-17 00:34:07,206 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:34:07,258 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:34:07,309 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:34:07,367 :INFO :test_NewConn :Selecting the required Rental Plan
+2021-02-17 00:34:07,437 :INFO :test_NewConn :Enter the Customer Name Ankit Kumar Mandal
+2021-02-17 00:34:09,046 :INFO :test_NewConn :Enter the Customer Mobile Number 9503913205
+2021-02-17 00:34:09,326 :INFO :test_NewConn :Click on Checkmark
+2021-02-17 00:34:09,453 :INFO :test_NewConn :Enter the Customer Address Lal Building Chowk, Bara Gamharia, Saraikella, Kharsawan, Jamshedpur, Jharkhand, 832108
+2021-02-17 00:34:10,323 :INFO :test_NewConn :Click on Submit Option
+2021-02-17 00:34:10,443 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:34:17,440 :INFO :test_MobilePurchase :Entering Samsung URL
+2021-02-17 00:34:23,564 :INFO :test_MobilePurchase :Click on mobile option in navigation bar
+2021-02-17 00:34:24,026 :INFO :test_MobilePurchase :Move mouse towards smartphones option
+2021-02-17 00:34:25,075 :INFO :test_MobilePurchase :Then click on SeeAll option
+2021-02-17 00:34:25,438 :INFO :test_MobilePurchase :List of all Mobile Brand
+2021-02-17 00:34:28,592 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:34:29,093 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:34:29,264 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:34:29,412 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:34:29,585 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:34:29,761 :INFO :test_MobilePurchase :Click on the required mobile product
+2021-02-17 00:34:30,409 :INFO :test_MobilePurchase :Click on Add to Cart option
+2021-02-17 00:34:38,514 :INFO :test_MobilePurchase :Click on the Continue Option
+2021-02-17 00:34:46,905 :INFO :test_MobilePurchase :Click on Remove Button
+2021-02-17 00:34:47,068 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:35:34,365 :INFO :test_NewConn :Entering Airtel URL
+2021-02-17 00:35:42,022 :INFO :test_NewConn :Click on broadband option
+2021-02-17 00:35:42,125 :INFO :test_NewConn :click on Buy New Connection option
+2021-02-17 00:35:49,222 :INFO :test_NewConn :Click on Change City option
+2021-02-17 00:35:49,432 :INFO :test_NewConn :Enter City Name Jam
+2021-02-17 00:35:49,595 :INFO :test_NewConn :Finally City name is selected
+2021-02-17 00:35:49,863 :INFO :test_NewConn :List of all Monthly Rentals
+2021-02-17 00:35:50,022 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:35:50,067 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:35:50,120 :INFO :test_NewConn :Selecting the required Rental Plan
+2021-02-17 00:35:50,187 :INFO :test_NewConn :Enter the Customer Name Ankit Kumar Mandal
+2021-02-17 00:35:50,847 :INFO :test_NewConn :Enter the Customer Mobile Number 9503913205
+2021-02-17 00:35:51,024 :INFO :test_NewConn :Click on Checkmark
+2021-02-17 00:35:51,218 :INFO :test_NewConn :Enter the Customer Address Lal Building Chowk, Bara Gamharia, Saraikella, Kharsawan, Jamshedpur, Jharkhand, 832108
+2021-02-17 00:35:52,166 :INFO :test_NewConn :Click on Submit Option
+2021-02-17 00:35:52,448 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:36:00,059 :INFO :test_MobilePurchase :Entering Samsung URL
+2021-02-17 00:36:07,174 :INFO :test_MobilePurchase :Click on mobile option in navigation bar
+2021-02-17 00:36:07,482 :INFO :test_MobilePurchase :Move mouse towards smartphones option
+2021-02-17 00:36:08,604 :INFO :test_MobilePurchase :Then click on SeeAll option
+2021-02-17 00:36:09,058 :INFO :test_MobilePurchase :List of all Mobile Brand
+2021-02-17 00:36:13,104 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:36:13,653 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:36:14,284 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:36:14,370 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:36:14,431 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:36:14,489 :INFO :test_MobilePurchase :Click on the required mobile product
+2021-02-17 00:36:21,046 :INFO :test_MobilePurchase :Click on Add to Cart option
+2021-02-17 00:36:21,713 :INFO :test_MobilePurchase :Click on the Continue Option
+2021-02-17 00:36:27,769 :INFO :test_MobilePurchase :Click on Remove Button
+2021-02-17 00:36:29,072 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:37:37,269 :INFO :test_NewConn :Entering Airtel URL
+2021-02-17 00:37:46,221 :INFO :test_NewConn :Click on broadband option
+2021-02-17 00:37:46,704 :INFO :test_NewConn :click on Buy New Connection option
+2021-02-17 00:37:50,058 :INFO :test_NewConn :Click on Change City option
+2021-02-17 00:37:50,404 :INFO :test_NewConn :Enter City Name Jam
+2021-02-17 00:37:50,502 :INFO :test_NewConn :Finally City name is selected
+2021-02-17 00:37:50,875 :INFO :test_NewConn :List of all Monthly Rentals
+2021-02-17 00:37:50,883 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:37:50,917 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:37:50,934 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:37:50,956 :INFO :test_NewConn :Selecting the required Rental Plan
+2021-02-17 00:37:51,022 :INFO :test_NewConn :Enter the Customer Name Ankit Kumar Mandal
+2021-02-17 00:37:51,309 :INFO :test_NewConn :Enter the Customer Mobile Number 9503913205
+2021-02-17 00:37:51,455 :INFO :test_NewConn :Click on Checkmark
+2021-02-17 00:37:51,809 :INFO :test_NewConn :Enter the Customer Address Lal Building Chowk, Bara Gamharia, Saraikella, Kharsawan, Jamshedpur, Jharkhand, 832108
+2021-02-17 00:37:52,002 :INFO :test_NewConn :Click on Submit Option
+2021-02-17 00:37:52,434 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:38:09,840 :INFO :test_MobilePurchase :Entering Samsung URL
+2021-02-17 00:38:16,730 :INFO :test_MobilePurchase :Click on mobile option in navigation bar
+2021-02-17 00:38:17,151 :INFO :test_MobilePurchase :Move mouse towards smartphones option
+2021-02-17 00:39:55,223 :INFO :test_NewConn :Entering Airtel URL
+2021-02-17 00:40:03,211 :INFO :test_NewConn :Click on broadband option
+2021-02-17 00:40:03,301 :INFO :test_NewConn :click on Buy New Connection option
+2021-02-17 00:40:07,819 :INFO :test_NewConn :Click on Change City option
+2021-02-17 00:40:08,042 :INFO :test_NewConn :Enter City Name Jam
+2021-02-17 00:40:08,181 :INFO :test_NewConn :Finally City name is selected
+2021-02-17 00:40:08,480 :INFO :test_NewConn :List of all Monthly Rentals
+2021-02-17 00:40:08,634 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:40:08,722 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:40:08,775 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:40:08,876 :INFO :test_NewConn :Selecting the required Rental Plan
+2021-02-17 00:40:08,981 :INFO :test_NewConn :Enter the Customer Name Ankit Kumar Mandal
+2021-02-17 00:40:09,580 :INFO :test_NewConn :Enter the Customer Mobile Number 9503913205
+2021-02-17 00:40:09,795 :INFO :test_NewConn :Click on Checkmark
+2021-02-17 00:40:09,962 :INFO :test_NewConn :Enter the Customer Address Lal Building Chowk, Bara Gamharia, Saraikella, Kharsawan, Jamshedpur, Jharkhand, 832108
+2021-02-17 00:40:10,791 :INFO :test_NewConn :Click on Submit Option
+2021-02-17 00:40:10,930 :INFO :test_NewConn :Selecting one by one Rental from Monthly Rentals list
+2021-02-17 00:40:17,039 :INFO :test_MobilePurchase :Entering Samsung URL
+2021-02-17 00:40:21,312 :INFO :test_MobilePurchase :Click on mobile option in navigation bar
+2021-02-17 00:40:21,750 :INFO :test_MobilePurchase :Move mouse towards smartphones option
+2021-02-17 00:40:22,712 :INFO :test_MobilePurchase :Then click on SeeAll option
+2021-02-17 00:40:23,277 :INFO :test_MobilePurchase :List of all Mobile Brand
+2021-02-17 00:40:26,916 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:40:27,476 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:40:28,120 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:40:28,188 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:40:28,261 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
+2021-02-17 00:40:28,333 :INFO :test_MobilePurchase :Click on the required mobile product
+2021-02-17 00:40:33,030 :INFO :test_MobilePurchase :Click on Add to Cart option
+2021-02-17 00:40:33,871 :INFO :test_MobilePurchase :Click on the Continue Option
+2021-02-17 00:40:37,937 :INFO :test_MobilePurchase :Click on Remove Button
+2021-02-17 00:40:38,935 :INFO :test_MobilePurchase :Selecting one by one from that mobile list
